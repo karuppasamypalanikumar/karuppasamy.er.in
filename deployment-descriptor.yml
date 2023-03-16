@@ -1,4 +1,5 @@
 appname: 'portfolio'
-prod_domain: 'karuppasamy.cf'
+prod_domain: 'karuppasamy.er.in'
+test_domain: 'karuppasamy.cf'
 application_type: 'WEB_SERVER_APPLICATION'
 nginx_config: 'Config/static-nginx.conf'
